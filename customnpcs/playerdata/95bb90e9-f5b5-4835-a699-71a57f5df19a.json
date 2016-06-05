@@ -2,8 +2,31 @@
     "ItemGiverChained": [
     ],
     "TransportData": [
+        {
+            "Transport": 2
+        },
+        {
+            "Transport": 3
+        },
+        {
+            "Transport": 5
+        },
+        {
+            "Transport": 6
+        },
+        {
+            "Transport": 7
+        }
     ],
     "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        }
     ],
     "BankData": [
     ],
@@ -21,5 +44,29 @@
     "UUID": "95bb90e9-f5b5-4835-a699-71a57f5df19a",
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 1
+        },
+        {
+            "Dialog": 2
+        },
+        {
+            "Dialog": 3
+        },
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        }
     ]
 }
